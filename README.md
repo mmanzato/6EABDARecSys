@@ -10,13 +10,13 @@ Marcelo G. Manzato
 A pesquisa na área de sistemas de recomendação é amplamente focada em ajudar usuários individuais a encontrar itens nos quais estão interessados. Isso geralmente é feito aprendendo a classificar os itens recomendáveis com base na suposta relevância para cada usuário. O objetivo implícito subjacente de tal sistema é afetar os usuários de diferentes maneiras positivas, por exemplo, facilitando seus processos de pesquisa e decisão ou ajudando-os a descobrir coisas novas. Esse curso faz uma análise do campo dos sistemas de recomendação, incluindo conceitos relevantes, principais tecnologias, tendễncias de mercado e aplicação prática dos algoritmos mais conhecidos em bases reais. Nesse contexto, o curso será voltado para pontos promissores da pesquisa de sistemas de recomendação com foco em aplicações de mercado.
 
 ## Conteúdo
-- Introdução aos Sistemas de Recomendação
-- Conceitos de Sistemas de Recomendação Entidades Organização dos dados Principais abordagens Como avaliar um sistema de recomendação?
-- Recomendação Não Personalizada O que fazer com a falta de informação de usuários e itens? Construindo rankings Algoritmos
-- Filtragem colaborativa Usuário x Itens Abordagens baseadas em memória Abordagens baseadas em modelo
-- Filtragem baseada em conteúdo Disposição dos Dados Como enriquecer os dados? Open Linked Data Algoritmos
-- Aplicações reais de mercado Sistemas de busca de emprego Sistemas de e-commerce
-- Conclusões
+1. Introdução aos Sistemas de Recomendação
+2. Conceitos de Sistemas de Recomendação Entidades Organização dos dados Principais abordagens Como avaliar um sistema de recomendação?
+3. Recomendação Não Personalizada O que fazer com a falta de informação de usuários e itens? Construindo rankings Algoritmos
+4. Filtragem colaborativa Usuário x Itens Abordagens baseadas em memória Abordagens baseadas em modelo
+5. Filtragem baseada em conteúdo Disposição dos Dados Como enriquecer os dados? Open Linked Data Algoritmos
+6. Aplicações reais de mercado Sistemas de busca de emprego Sistemas de e-commerce
+7. Conclusões
 
 ## Referências
 - Recommender Systems: The Textbook, Charu C. Aggarwal. Springer, 2016.
